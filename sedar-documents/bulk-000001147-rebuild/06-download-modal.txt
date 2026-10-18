@@ -1,0 +1,1513 @@
+Skip to main content
+Menu
+Go to Dashboard
+ 
+Français
+ 
+Login
+Search
+Print
+All fields are required unless marked as optional.
+Profiles
+ 
+Documents
+ 
+Disciplined list
+ 
+Cease trade orders
+Search and download documents
+
+Search for documents filed for specific profiles, for a subset of profiles, or across the whole SEDAR+ platform.
+
+Use ‘Profile name or number’ lookup to create a list of known profiles or use other profile search fields to specify a profile subset.
+
+Use filing or document search fields to further narrow the results and click ‘Search’ to see the list of matching documents.
+
+The user must enter an accent in the search criteria to retrieve search results with an accent (eg: a search using Confédération will retrieve a company with the name Confédération but will not retrieve the name Confederation).
+
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+Add another
+Document content search
+ 
+Contains
+Exact match
+All of the search terms
+Any of the search terms
+Filing number
+Filing category
+Securities offerings
+Continuous disclosure
+Applications, pre-filings and waivers
+Exempt market offerings
+Third party filings and securities acquisitions
+Filing type
+Alternate reporting requirements of eligible pooled funds
+Annual MD&A
+Annual certificates
+Annual certificates (NI 52-109)
+Annual financial statements
+Annual financial statements for non-reporting issuers - continuous disclosure
+Annual financial statements for non-reporting issuers - exempt market offerings
+Annual information form
+Annual management report of fund performance
+Annual report
+Applications
+Business Acquisition Report
+CPC Qualifying Transaction
+CPC prospectus (TSX-V)
+Capital accumulation plan exemption
+Change in Corporate Structure
+Change in Status
+Change in legal structure
+Change in year end
+Change in year end for non-reporting issuers
+Change of auditor
+Code of conduct
+Compliance Reports (NI 41-101)
+Compliance Reports (NI 81-102)
+Continuous Disclosure
+Create transparency measures in the mining, oil and gas industries
+Crowdfunding - offering document (MI 45-108)
+Documents affecting rights of security holders/material contracts
+Exempt Issuer Bid
+Exempt market offerings
+Exempt take-over bid
+Filing Statement
+For regulator's use only
+Formal Issuer Bid
+IRC Reports (NI 81-107)
+Interim Certificates
+Interim Certificates (NI 52-109)
+Interim MD&A
+Interim financial statements/report
+Interim financial statements/report for non-reporting issuers
+Interim management report of fund performance
+Listed Issuer Financing Exemption - Offering Document
+Listing application
+Long form prospectus (NI 41-101)
+MJDS prospectus (NI 71-101)
+Management proxy materials
+Marketing Materials (2.9 of NI 45-106)
+Material Documents
+Material change report
+NB LR 45-509 - Community Economic Development Corporations and Associations (CEDC)
+NI 44-101 Notice of Intent
+News releases
+Notice - issuer ceases to be an OTC reporting issuer 51-105F4
+Notice OTC issuer ceases to be an OTC reporting issuer 51-105F1
+Notice of promotional activities 51-105F2
+Notice of the meeting and record date
+Notice of use of proceeds
+Notifications
+OTC issuer registration statement (MI 51-105)
+Offering memorandum (2.9 of NI 45-106)
+Offering memorandum (other than 2.9 of NI 45-106)
+Oil and gas annual disclosure (NI 51-101)
+Other filings - continuous disclosure
+Other filings - exempt market offerings
+Other filings - securities offerings
+Other filings - third party filings and securities acquisitions
+Participation fee form
+Personal information form and authorization 51-105F3A
+Personal information form and authorization 51-105F3B
+Pre-Filings
+Prospectus – distribution outside Québec (QC sec. 12 Act)
+Proxy solicitation materials
+Proxy voting record of an investment fund
+Real estate offering document
+Report of Management Company
+Report of distributions outside Canada Form 72-503F
+Report of exempt distribution (NI 45-106)
+Report of trade
+Resale of securities (NI 45-102)
+Rights offering - minimal connection
+Rights offering material
+Securities acquisition (alternative monthly report)
+Securities acquisition filings (early warning)
+Shelf prospectus (NI 44-102)
+Short form prospectus (NI 44-101)
+Simplified Prospectus (NI 81-101)
+Start-Up Business - Offering Document
+Start-Up Crowdfunding - Offering Document
+Start-Up Crowdfunding - Offering Document (NI 45-110)
+Start-up crowdfunding - report of exempt distribution (Form 5)
+Statement of executive compensation
+Take-over Bid
+Technical report(s) (NI 43-101) - continuous disclosure
+Technical report(s) (NI 43-101) - exempt market offerings
+WKSI Shelf prospectus (NI 44-102)
+Waivers
+Filing sub-type
+Alternative monthly report
+Applications
+Amended annual management report of fund performance
+Amended interim financial statements/report - non-reporting issuers
+Amended annual MD&A
+Amended change in legal structure
+Amended closing filing
+Amended crowdfunding - offering document (MI 45-108)
+Amended interim MD&A
+Amended interim financial statements/report
+Amended offering memorandum (2.9 of NI 45-106)
+Amended start-up business - offering document
+Amended start-up crowdfunding - report of exempt distribution (Form 5)
+Amended start-up crowdfunding - offering document (NI 45-110)
+Amended real estate offering document
+Amendment to final
+Amendment to preliminary
+Amendment to preliminary or combined preliminary and pro forma
+Amended annual financial statements
+Amended annual financial statements - non-reporting issuers
+Amended annual report
+Amended & restated technical report
+Amended report of exempt distribution (45-106F1)
+Amended offering document
+Amended offering memorandum (other than 2.9 of NI 45-106)
+Amended promotional material
+Amended rights offering material - minimal connection
+Amended annual statement of payments
+Annual certificates (52-109F1)
+Annual certificates (52-109FV1)
+Annual certificates (52-109F1-AIF)
+Annual certificates (52-109F1-IPO/RTO)
+Annual financial statements
+Annual financial statements - non-reporting issuers
+Annual information form
+Annual management report of fund performance
+Amended marketing materials (2.9 of NI 45-106)
+Amended Listed Issuer Financing Exemption - Offering Document
+Annual MD&A
+Amended notice of use of proceeds
+Annual report
+Amended initial filing
+Alternate reporting requirements of eligible pooled funds
+Business acquisition report
+Capital accumulation plan exemption
+CEDC annual financial statements
+CEDC distribution report (45-509F2)
+CEDC interim financial statements
+CEDC notice of use of proceeds
+Certificate of registration
+Change in Corporate Structure
+Change in legal structure
+Change in status
+Change in year end
+Change in Year End - Non-Reporting Issuers
+Change of auditor
+Closing filing
+Code of conduct
+Combined preliminary and pro forma
+Combined preliminary and pro forma, and amendment to preliminary
+Compliance reports (NI 81-102)
+Compliance Reports (NI 41-101)
+NB LR 45-509 - Community Economic Development Corporations and Associations (CEDC)
+Crowdfunding offering document (MI 45-108)
+Qualifying transaction
+Documents affecting rights of securityholders
+Disqualification report
+Early warning report
+Exempt Issuer Bid
+Exempt issuer bid material
+Exempt Take-over Bid
+Filing statement
+Final
+Final and amendment to final
+Formal Issuer Bid
+AB Form 13-501F1 and/or ON Form 13-502F1 (Class 1 and 3B Reporting Issuers - Participation Fee)
+AB Form 13-501F2 and/or ON Form 13-502F2 (Class 2 Reporting Issuers - Participation Fee)
+AB Form 13-501F3 (Adjustment of Fee Payment for Class 2 Reporting Issuers)
+AB Form 13-501F4 and/or ON Form 13-502F3A (Class 3A Reporting Issuers - Participation Fee)
+AB Form 13-501F5 (Investment Fund - Participation Fee)
+AB Form 13-501F6 and/or ON Form 13-502F6 (Subsidiary Exemption Notice)
+For regulator's use only
+Interim certificates (52-109F2)
+Interim certificates (52-109F2-IPO/RTO)
+Interim certificates (52-109FV2)
+Interim financial statements/report
+Interim financial statements/report - non-reporting issuers
+Interim management report of fund performance
+Amended interim management report of fund performance
+Initial filing
+Interim MD & A
+Issuer bid circular
+Letter of non-objection
+Listing application
+Marketing materials for bought deal
+Marketing materials (2.9 of NI 45-106)
+Listed Issuer Financing Exemption - Offering Document
+Material change report
+Material contracts
+Material document
+Material documents
+Material document(s) (amended)
+Management proxy materials
+News releases
+News release section 48 of NI 62104
+News release section 48 of NI 62104 (amended)
+NI 44-101 Notice of Intent to Qualify
+NI 44-101 Withdrawal Notice
+Notice of change or variation
+Notice of Intention
+Notice - issuer ceases to be an OTC reporting issuer 51-105F4
+Notice of intention to distribute Form 45-102F1
+Notice of promotional activities 51-105F2
+Notice of surrender or revocation of registration
+Notice of specified events
+Notice - OTC issuer ceases to be an OTC reporting issuer 51-105F1
+Notice of the meeting and record date
+Notifications
+Notice of use of proceeds
+Personal information form and authorization 51-105F3A
+Personal information form and authorization 51-105F3B
+Preliminary
+Press releases
+Preliminary and amendment to preliminary
+Prefilings
+Pro forma
+Promotional material
+Prospectus
+Prospectus Supplement
+Proxy Solicitation Materials
+Proxy voting record of an investment fund
+Offering document
+Offering memorandum (other than 2.9 of NI 45-106)
+Offering memorandum (2.9 of NI 45-106)
+Oil and gas annual disclosure filing
+Oil and gas interim filing
+Other
+OTC issuer registration statement MI 51-105
+Other
+Real estate offering document
+Refiled annual filings (52-109F1R)
+Refiled interim filings (52-109F2R)
+ER001-74,ER005-65: Related pre-filing, application, waiver or prospectus</description></value>
+Report of exempt distribution excluding schedule 1 of Form 5
+Report of exempt distribution excluding schedule 1 of Form 5 (amended)
+Report of exempt distribution (45-106F1)
+Report of distributions outside Canada Form 72-503F
+Report of Management Company
+Report of trade
+IRC reports (NI 81-107)
+Revised annual information form
+Revised oil and gas annual disclosure filing
+Rights offering material - minimal connection
+Schedule 1 of report of exempt distribution Form 5
+Schedule 1 of report of exempt distribution Form 5 (amended)
+Start-up crowdfunding - report of exempt distribution (Form 5)
+Supplemented short form PREP prospectus (NI 44-103)
+Supplemented long form PREP prospectus (NI 44-103)
+Summary report
+System Generated
+Start-up business - offering document
+Start-up crowdfunding - offering document
+Start-up crowdfunding - offering document (NI 45-110)
+Statement of executive compensation
+Amended start-up crowdfunding - offering document
+Take-over Bid Circular
+Directors' Circular
+Director's or Officer's Circular (Individual)
+Technical report
+Technical Report(s) (NI 43-101)
+Annual statement of payments
+Waiver application
+Document type
+Draft information circular for a qualifying transaction
+Information circular for a qualifying transaction
+Blacklined information circular for a qualifying transaction
+Draft filing statement for a qualifying transaction
+Blacklined filing statement
+Personnal information form
+Correspondence with TSXV
+Exemption granted by TSXV
+Material contracts of the target company
+Material contracts of the resulting issuer
+Stock option plan
+Notice of acceptance
+Conditional approval from TSXV
+List of shareholders of the target company
+Preliminary sponsor report
+Report / valuation (other than technical report)
+Articles of incorporation, amalgamation, continuation or any other constating document of the target company
+52-109F1 - Certification of annual filings - CEO
+52-109F1 - Certification of annual filings - CFO
+52-109F1-AIF - Certification of filings with voluntarily filed AIF - CEO
+52-109F1-AIF - Certification of filings with voluntarily filed AIF - CFO
+52-109F1R - Certification of refiled annual filings - CEO
+52-109F1R - Certification of refiled annual filings - CFO
+52-109F1-IPO/RTO - IPO/RTO/ Becoming non-venture issuer - CEO
+52-109F1-IPO/RTO - IPO/RTO/ Becoming non-venture issuer - CFO
+52-109F2-IPO/RTO - IPO/RTO/ Becoming non-venture issuer - CEO
+52-109F2-IPO/RTO - IPO/RTO/ Becoming non-venture issuer - CFO
+52-109F2R - Certification of refiled interim filings - CEO
+52-109F2R - Certification of refiled interim filings - CFO
+52-109F2 - Certification of interim filings - CEO
+52-109F2 - Certification of interim filings - CFO
+52-109FV1 - Certification of annual filings - CEO
+52-109FV1 - Certification of annual filings - CFO
+52-109FV2 - Certification of interim filings - CEO
+52-109FV2 - Certification of interim filings - CFO
+AB form 13-501F1 (class 1 and 3B reporting issuers - participation fee)
+AB form 13-501F2 (class 2 reporting issuers - participation fee)
+AB form 13-501F3 (Adjustment of Fee Payment for Class 2 Reporting Issuers)
+AB form 13-501F4 (class 3A reporting issuers - participation fee)
+AB Form 13-501F5 (investment fund - participation fee)
+AB Form 13-501F6 (Subsidiary Exemption Notice)
+AB form 13-501F1 (class 1 and 3B reporting issuers - participation fee)
+AB form 13-501F2 (class 2 reporting issuers - participation fee)
+AB form 13-501F3 (Adjustment of Fee Payment for Class 2 Reporting Issuers)
+AB form 13-501F4 (class 3A reporting issuers - participation fee)
+AB Form 13-501F5 (investment fund - participation fee)
+AB Form 13-501F6 (Subsidiary Exemption Notice)
+Acknowledgement to Evidence Exemption by a Receipt
+Acceptance of Prospectus Supplement
+Acknowledgement of Receipt of an Application, Pre-filing or Waiver Application
+Alternative monthly report
+Advertisement
+Agreements (NI 62-104)
+Amend. to (or amended) final detailed plan disclosure - schol. plan
+Amendment to (or amended) preliminary detailed plan disclosure - scholarship plan
+Amended and restated final ETF facts
+Amended and restated final fund facts
+Amended and restated final plan summary - scholarship plan
+CEDC annual financial statements (amended)
+CEDC distribution report excluding schedules (amended)
+Schedules of CEDC distribution report (45-509F2) (amended)
+CEDC interim financial statements/report (amended)
+CEDC offering document of form 45-509F1 (amended)
+CEDC notice of specified events - form 45-509F4 (amended)
+CEDC notice of use of proceeds (amended)
+CEDC promotional material (amended)
+Amended interim financial statements/report
+Offering memorandum (other than 2.9 of NI 45-106)(amended)
+Amended & restated business acquisition report
+Amended & restated technical report (NI 43-101)
+Amendment to non-offering prospectus product supplement
+Amendment to (or amended) final detailed plan disclosure - scholarship plan
+Amendment to (or amended) final annual information form
+Amendment to (or amended) final long form prospectus
+Amendment to (or amended) final prospectus
+Amendment to (or amended) final short form prospectus
+Amendment to (or amended) final simplified prospectus
+Amendment to (or amended) preliminary annual information form
+Amendment to (or amended) preliminary long form prospectus
+Amendment to (or amended) preliminary plan summary - scholarship plan
+Amendment to (or amended) preliminary prospectus
+Amendment to (or amended) preliminary short form prospectus
+Amendment to (or amended) preliminary simplified prospectus
+Amendment to pricing supplement (other than specified derivative)
+Amendment to pricing supplement (specified derivative)
+Amendment to prospectus (non pricing) supplement
+Amendment to prospectus (non pricing) supplement (ATM)
+Amendment to prospectus (non pricing) supplement (other than ATM)
+Annual financial statements (amended)
+Annual financial statements
+Annual financial statements - letter from foreign issuer
+Annual information form
+Annual information form - foreign language
+Annual information form - letter from foreign issuer
+Annual report - letter from foreign issuer
+Annual report
+Annual report (amended)
+Annual report on form 10-K
+Annual report on form 10-KSB
+Annual report on form 20-F
+Annual management report of fund performance (amended)
+Annual management report of fund performance
+Annual statement of payments
+Annual statement of payments (amended)
+Application Letter
+Application letter relating to a cease trade order
+Appraisal report
+Audit report(s) - section 12.1 (NI 8I-102)
+Audited annual financial statements
+Audited annual financial statements (amended)
+Audited statement of development capital investments
+Audited statement of development capital investments (amended)
+Auditors' comfort letter regarding audited financial statements
+Auditors' consent letter
+Auditor's consent letter
+Audited statement of financial position
+Blacklined amended and restated final fund facts
+Blacklined amend. final detailed plan disclosure - schol. plan
+Blacklined amended preliminary detailed plan disclosure - scholarship plan
+Blacklined amended and restated final ETF facts
+Blacklined amended and restated final fund facts
+Blacklined amended final annual information form
+Blacklined amended final ETF facts
+Blacklined amended final fund facts
+Blacklined amended final long form prospectus
+Blacklined amended final plan summary - scholarship plan
+Blacklined amended final short form prospectus
+Blacklined amended final simplified prospectus
+Blacklined preliminary and amendment to preliminary annual information form
+Blacklined amended preliminary annual information form
+Blacklined preliminary and amended preliminary annual information form
+Blacklined preliminary and amended preliminary long form prospectus
+Blacklined preliminary and amended preliminary detailed plan disclosure - scholarship plan
+Blacklined preliminary and amended preliminary plan summary scholarship plan
+Blacklined amended preliminary long form prospectus
+Blacklined amended preliminary plan summary - scholarship plan
+Blacklined preliminary and pro forma, and amendment to preliminary simplified prospectus
+Blacklined amended preliminary short form prospectus
+Blacklined amended preliminary simplified prospectus
+Blacklined amended preliminary prospectus
+Blacklined amended preliminary fund facts
+Blacklined amended final prospectus
+Blacklined amendment to (or amended) preliminary prospectus
+Blacklined amendment to (or amended) final prospectus
+Blacklined final and amended final detailed plan disclosure - scholarship plan
+Blacklined final and amended final plan summary - scholarship plan
+Blacklined final and amendment to final short form prospectus
+Blacklined final and amended final long form prospectus
+Blacklined final and amended final short form prospectus
+Blacklined final and amendment to final simplified prospectus
+Blacklined final and amendment to final prospectus
+Blacklined final annual information form
+Blacklined final detailed plan disclosure - scholarship plan
+Blacklined final and amended final annual information form
+Blacklined final ETF facts
+Blacklined final fund facts
+Blacklined final long form prospectus
+Blacklined final plan summary - scholarship plan
+Blacklined final prospectus
+Blacklined final short form prospectus
+Blacklined final simplified prospectus
+Blacklined preliminary and amended preliminary simplified prospectus
+Blacklined preliminary and amended preliminary short form prospectus
+Blacklined preliminary and amended preliminary prospectus
+Blacklined preliminary and pro forma, and amended preliminary simplified prospectus
+Blacklined preliminary and pro forma, and amended preliminary annual information form
+Blacklined preliminary and pro forma annual information form
+Blacklined preliminary and pro forma, and amended preliminary long form prospectus
+Blacklined preliminary and pro forma ETF facts
+Blacklined preliminary and pro forma fund facts
+Blacklined preliminary and pro forma long form prospectus
+Blacklined preliminary and pro forma simplified prospectus
+Blacklined Preliminary and Pro Forma short form prospectus
+Blacklined preliminary and pro forma detailed plan disclosure - scholarship plan
+Blacklined preliminary and pro forma plan summary - scholarship plan
+Blacklined preliminary annual information form
+Blacklined preliminary simplified prospectus
+Blacklined Pro Forma Annual Information Form
+Blacklined pro forma detailed plan disclosure - scholarship plan
+Blacklined pro forma ETF facts
+Blacklined pro forma fund facts
+Blacklined pro forma long form prospectus
+Blacklined pro forma plan summary - scholarship plan
+Blacklined Pro Forma short form prospectus
+Blacklined pro forma simplified prospectus
+Blacklined preliminary and pro forma ETF facts
+Business acquisition report
+Business acquisition report - letter from foreign issuer
+Capital accumulation plan exemption
+Calculation of earnings coverage
+CEDC annual financial statements
+CEDC certificate of registration
+CEDC distribution report excluding schedules
+Schedules of CEDC distribution report (45-509F2)
+CEDC interim financial statements/report
+CEDC letter of non-objection
+CEDC notice of specified events - form 45-509F4
+CEDC notice of surrender or revocation of registration
+CEDC notice of use of proceeds
+CEDC offering document of form 45-509F1
+CEDC promotional material
+CEDC revocation notice - letter of non-objection
+Certificate and Articles of Amendment
+Certificate/articles of change of name
+Certificate and articles of change of name
+Certificate and Articles of Incorporation
+Certificate of issuer
+Certificate of issuer (amended)
+Certificate of qualified person (NI 43-101)
+Certificate of the annual statement of payments
+Certificate of the annual statement of payments (amended)
+Certificate re effective use of U.S. registration statement
+Certificate re dissemination
+Certificate re dissemination to shareholders
+Certificate / notice(s) re proceeds of distribution
+Certificate / notice(s) re proceeds of distribution (ATM)
+Certificate / notice(s) re proceeds of distribution (other than ATM)
+Certificate / notice(s) re proceeds of distribution (MTN - QC sec. 98.1 Reg.)
+Change in legal structure
+Change in legal structure (amended)
+Change of Auditor
+Closing Note
+Closing news release (amended)
+Closing news release
+Code of conduct
+Comment Letter for Amendment to Prospectus
+Communication with Exchange
+Company's undertaking to provide material contracts on request
+Compliance report(s) - section 12.1 (NI 81-102)
+Conditional Approval Letter
+Confidential marketing materials
+Confirmation of Listing
+Confirmation re final and amendment to final prospectus materials
+Confirmation re final materials
+Confirmation re preliminary and amendment to preliminary prospectus materials
+Confirmation re preliminary materials
+Confirmation re final and amendment to final prospectus materials
+Confirmation re preliminary and amendment to preliminary prospectus materials
+Confirmation re preliminary prospectus amendment materials
+Confirmation re prospectus amendment materials
+Consent
+Consent letter of issuer's legal counsel
+Consent letter(s) of issuer's legal counsel
+Consent letter(s) of underwriters'/agents' legal counsel
+Consent letter of underwriters' legal counsel
+Consent letter(s) of expert(s)
+Consent letter(s) of other expert(s)
+Consent letter(s) of legal counsel
+Consent letter(s) of other legal counsel
+Consent of qualified person (NI 43-101)
+Cover letter
+Consent letter(s)
+Credit supporter's consent
+Crowdfunding offering document (MI 45-108)
+Crowdfunding offering document (MI 45-108) (amended)
+Blacklined preliminary and pro forma, and amended preliminary detailed plan disclosure - scholarship plan
+Blacklined amended preliminary ETF facts
+Blacklined amended preliminary fund facts
+Blacklined preliminary and pro forma, and amended preliminary annual information form
+Blacklined preliminary and pro forma, and amended preliminary plan summary scholarship plan
+Blacklined final and amended final annual information form
+Blacklined preliminary and amendment to preliminary simplified prospectus
+Blacklined amended preliminary ETF facts
+Blacklined preliminary and pro forma, and amended preliminary short form prospectus
+Investment Manager agreement (or amendment thereto)
+Letter pursuant to 4.1(4) of NI 45-106 - control block distribution
+Notice to the commission given pursuant to paragraph 2.42(2)(a) of NI 45-106
+Investment Portfolio Manager agreement (or amendment thereto)
+Preliminary and pro forma, and amendment to preliminary annual information form
+Preliminary and pro forma, and amendment to preliminary simplified prospectus
+Preliminary and pro forma, and amendment to preliminary short form prospectus
+Preliminary and pro forma, and amendment to preliminary detailed plan disclosure - scholarship plan
+Preliminary and amendment to preliminary simplified prospectus
+Preliminary and pro forma, and amendment to preliminary plan summary scholarship plan
+Preliminary and pro forma detailed plan disclosure – scholarship plan
+Preliminary and pro forma, and amendment to preliminary long form prospectus
+Preliminary and amendment to preliminary short form prospectus
+Pro Forma short form prospectus
+Annual information form (revised)
+Statement of net revenue
+Statement of net revenue (amended)
+Certificate of qualified person (NI 43-101)
+Consent of qualified person (NI 43-101)
+Custodian agreement
+Custodian agreement (or amendment thereto)
+Custodian report(s) - section 6.7 (NI 81-102)
+Custodian report(s) - section 14.6 (NI 41-101)
+Custodianship agreement
+Decision Document / Order for Application - English
+Decision Document / Order for Application - French
+Decision Document (Subsequent Amendment to Final)
+Declaration of trust
+Declaration of trust (or amendment thereto)
+Default announcement
+Denial Letter
+Disqualification report
+Directors' resolutions
+Previous Decision
+Documents affecting rights of securityholders
+Documents affecting rights of security holders/material contracts
+Documents affecting rights of securityholders (or amendment thereto)
+Documents affecting rights of securityholders - Trust indentures re debt
+Documents affecting the rights of securityholders (or amendment thereto)
+Documents incorporated by reference
+Documents incorporated by reference not previously filed
+Draft order(s)/decision document(s)
+Draft escrow agreement
+Draft order(s)/decision document(s) - English
+Draft order(s)/decision document(s) - French
+Draft prospectus
+Draft shelf prospectus supplement
+Draft statement of financial position
+Deposit period news release
+Directors' Circular
+Director's or officer's circular
+Early warning report
+Eligibility certificate
+Evidence of approvals from other regulatory authorities (ON)
+Evidence of dissolution or termination
+Evidence of dissolution or termination (amended)
+Exhibits and other supporting material
+Exempt issuer bid material
+Exempt take-over bid material
+Escrow agreement
+Filing statement
+Final and amendment to final detailed plan disclosure - scholarship plan
+Final and amendment to final long form prospectus
+Final and amendment to final short form prospectus
+Final and amendment to final annual information form
+Final and amendment to final plan summary - scholarship plan
+Final and amendment to final simplified prospectus
+Final and amendment to final prospectus
+First Comment Letter
+Final Receipt
+First Response Letter
+Final annual information form
+Final detailed plan disclosure - scholarship plan
+Final ETF facts
+Final fund facts
+Final long form prospectus
+Final plan summary - scholarship plan
+Final prospectus
+Final short form prospectus
+Final simplified prospectus
+Financial statements of operating entity
+Financial statements of RTO acquirer
+Formal valuation
+Form BCI 45-524
+Form (AB, ON-Form 38, BC-Form 81-903F, SK-Form 36, NS-Form 39, NF-Form 37)
+Form (amended) (AB,ON-Form38,BC-Form81-903F,SK-Form36,NS-Form39,NF-Form37)
+Form IV (NF)
+Form of proxy
+Form of proxy (amended)
+For regulator's use only
+Green sheet (QC)
+Green sheet (ON, QC)
+Information circular
+Index of investments made by the specialized funds
+Index of investments made by the specialized funds (amended)
+Information Document (QC sec. 115 Reg.)
+Interim financial statements/report
+Interim financial statements/report (amended)
+Interim financial statements/report (amended) foreign language
+Interim financial statements/report foreign language
+Interim financial statements/report letter from foreign issuer
+Interim management report of fund performance
+Interim management report of fund performance (amended)
+Interim MD&A
+Interim MD&A (amended)
+Interim MD&A (amended) - letter from foreign issuer
+Interim MD&A - letter from foreign issuer
+Interim MD&A of an operating entity
+Interim MD&A supplement
+Interim MD&A supplement (amended)
+Interim oil and gas disclosure filing
+Internal Comment Letter
+Internal Response Letter
+Issued Decision Document (2nd Amendment to Final)
+Issued Decision Document (Preliminary and Amendment to Preliminary)
+Issued Receipt for Final and Amendment to Final Prospectus
+Issued Receipt for Preliminary and Amendment to Preliminary Prospectus
+Issuer's submission to jurisdiction and appointment of agent
+Issuer bid circular
+Information Document (QC sec. 115 Reg.)
+Letter from former auditor
+Letter from successor auditor
+Letter of transmittal
+Letter of withdrawal
+Letter (opting into the PREP procedures)
+Letter (opting into the shelf procedures)
+Letter (opting out of the PREP procedures)
+Letter (opting out of the shelf procedures)
+Letter outlining exemptions relied upon (ON, QC)
+Listing application
+Listing application (amended)
+Letter of transmittal
+Letter outlining exemptions relied upon (ON, QC)
+Management agreement
+Managing dealer agreement
+Management agreement (or amendment thereto)
+Managing dealer agreement (amended)
+Management information circular
+Management information circular (amended)
+Management proxy materials (amended) - foreign language
+Management proxy materials - foreign language
+Management proxy materials - letter from foreign issuer
+Manager - transactions in securities of related issuers
+Manager - transactions in securities of related issuers (amended)
+Manager - transactions under part 4 of NI 81-102
+Manager - transactions under part 4 of NI 81-102 (amended)
+Manager - notification under part 5 of NI 81-107
+Manager - notification under part 5 of NI 81-107 (amended)
+Document upload
+Related pre-filings, applications or waiver applications
+Marketing materials
+Marketing materials (other than specified derivative)
+Marketing materials related to offering memorandum
+Marketing materials related to offering memorandum (amended)
+Marketing materials (specified derivative)
+Material document (amended)
+Material contracts - Credit agreements
+Material change report
+Material change report (amended)
+Material change report (amended) - foreign language
+Material change report - foreign language
+Material contracts
+Material document(s)
+Material document
+Material document(s) (amended)
+Materials sent to securityholders
+Materials sent to securityholders (amended)
+Annual MD&A
+Annual MD&A (amended)
+Annual MD&A (amended) - foreign language
+Annual MD&A (amended) - letter from foreign issuer
+Annual MD&A - foreign language
+Annual MD&A - letter from foreign issuer
+Annual MD&A of an operating entity
+Annual MD&A of an operating entity
+Annual MD&A supplement
+Annual MD&A supplement (amended)
+Decision Document (Amendment to Preliminary)
+Decision Document (Final)
+Decision Document (First Amendment to Final)
+Decision Document (Preliminary)
+Decision Document (Second Amendment to Final)
+Decision Document (Third Amendment to Final)
+Decision Document (Final and Amendment to Final)
+Decision Document (Preliminary and Amendment to Preliminary)
+News release (amended)
+News release
+News release (section 4.8 of NI 62-104)
+News release (section 4.8 of NI 62-104) (amended)
+NI 44-101 Notice of intent to qualify
+NI 44-101 Notice of intent to qualify (amended)
+NI 44-101 Withdrawal notice
+NI 44-101 Withdrawal notice (amended)
+Non-issuer's submission to jurisdiction and appointment of agent
+Non-offering prospectus product supplement
+None
+Notice
+Notice (amended)
+Notice Form 45-102F1
+Notice issuer ceases to be an OTC reporting issuer 51-105F4
+Notice issuer ceases to be an OTC reporting issuer 51-105F4 (amended)
+Notice of Acceptance for Filing
+Notice of ceasing to engage in oil and gas activities (form 51-101F5)
+Notice of change or variation
+Notice of Continuous Disclosure Filings
+Notice of dissolution or termination (s.5.8 of NI 81-102)
+Notice of dissolution or termination (s.5.8 of NI 81-102) (amended)
+Notice of exemption (section 2.11(c) of 81-106)
+Notice of exemption (s. 2.2 of ASC blanket order)
+Notice of exemption (s. 2 of MSC blanket order)
+Notice of exemption (s 3.1 of NSSC blanket order 45-507)
+Notice of exemption (s. 3.1 of FCNB blanket order 81-502)
+Notice of exemption (s. 3.1 of NWT blanket order #6)
+Notice of filing of 51-101 F1 information (form 51-101 F4)
+Notice of guaranteed delivery
+Notice of Opt in
+Notice of promotional activities 51-105F2
+Notice of promotional activities 51-105F2 (amended)
+Notice of Refusal to Evidence the Exemption
+Notice of Rights offering (Form 45-106F14) (amended)
+Notice of rights offering (Form 45-106F14)
+Notice of meeting
+Notice of meeting (amended)
+Notice of minimal connection
+Notice of minimal connection (amended)
+Notice of the meeting and record date (amended)
+Notice of the meeting and record date
+Notice of reliance
+Notice of Opt out
+Notice of use of proceeds
+Notice of use of proceeds (amended)
+Notice OTC issuer ceases to be a reporting issuer 51-105F1 (amended)
+Notice OTC issuer ceases to be a reporting issuer 51-105F1
+Notice - Voluntary Surrender of Reporting Issuer Status
+Notification - cease to be a member notice
+Notification - conflict of interest notice
+Novel (per NI 44-102) pricing supplement
+Notice of Intention
+Notice of intention to rely on BC Instrument 45-505
+Notice of change - Directors' circular
+Notice of change - Director's or officer's circular
+Notice of guaranteed delivery
+Notice pursuant to section 4.7 of MI 11-102
+Notice to the Public
+Offering document
+Offering document (amended)
+Offering memorandum (other than 2.9 of NI 45-106)
+Offering material
+Offering memorandum (2.9 of NI 45-106)
+Offering memorandum (2.9 of NI 45-106) (amended)
+Oil and gas annual disclosure filing (forms 51-101 F1, F2 & F3)
+Oil and gas annual disclosure filing (form 51-101 F1)
+Oil and gas annual disclosure filing (form 51-101 F2)
+Oil and gas annual disclosure filing (form 51-101 F3)
+Oil and gas reports
+ON form 13-502F1 (class 1 and 3B reporting issuers - participation fee)
+ON form 13-502F2 (class 2 reporting Issuers - participation fee)
+ON form 13-502F3A (class 3A reporting issuers - participation fee)
+ON form 13-502F6 (Subsidiary Exemption Notice)
+OTC issuer registration statement MI 51-105
+OTC issuer registration statement MI 51-105 (amended)
+ON form 13-502F1 (class 1 and 3B reporting issuers - participation fee)
+ON form 13-502F2 (class 2 reporting Issuers - participation fee)
+ON form 13-502F3A (class 3A reporting Issuers - participation fee)
+ON form 13-502F6 (Subsidiary Exemption Notice)
+Other
+Other Correspondence
+Other distribution materials (MI 45-108)
+Other distribution materials (MI 45-108) (amended)
+Other material contract(s)
+Other material contracts not previously filed
+Other material contracts
+Other material contracts (amended)
+Other material contracts (or amendment thereto)
+Other reports and valuations
+Other securityholders documents
+Other supporting documents
+Other undertakings
+Personal information form and authorization
+Personal information form and authorization 51-105F3A
+Personal information form and authorization 51-105F3A (amended)
+Personal information form and authorization 51-105F3B
+Personal information form and authorization 51-105F3B (amended)
+Portfolio advisory agreement
+Portfolio advisory agreement (or amendment thereto)
+Powers of attorney
+Precedent Decision(s)
+Pre-filing letter
+Preliminary and amendment to preliminary detailed plan disclosure - scholarship plan
+Preliminary and amendment to preliminary plan summary scholarship plan
+Preliminary and amendment to preliminary annual information form
+Preliminary and amendment to preliminary long form prospectus
+Preliminary and amendment to preliminary prospectus
+Preliminary and pro forma annual information form
+Preliminary and pro forma detailed plan disclosure - scholarship plan
+Preliminary and pro forma detailed plan disclosure - scholarship plan (adding plan(s) and/or jurisdiction(s) to a Pro forma detailed plan disclosure – scholarship plan
+Preliminary and pro forma long form prospectus
+Preliminary and pro forma long form prospectus (adding fund(s) and/or jurisdiction(s) to a pro forma prospectus)
+Preliminary and pro forma simplified prospectus
+Preliminary and Pro Forma short form prospectus
+Preliminary and pro forma short form prospectus (adding fund(s) and/or jurisdiction(s) to a pro forma prospectus)
+Preliminary and pro forma simplified prospectus (adding fund(s) and/or jurisdiction(s) to a pro forma prospectus)
+Preliminary annual information form
+Preliminary and pro forma, and amendment to preliminary simplified prospectus
+Preliminary and pro forma plan summary - scholarship plan
+Preliminary detailed plan disclosure - scholarship plan
+Preliminary detailed plan disclosure – scholarship plan (adding plan(s) and/or jurisdiction(s) to a final detailed plan disclosure – scholarship plan)
+Preliminary ETF facts
+Preliminary fund facts
+Preliminary long form prospectus
+Preliminary long form prospectus (adding fund(s) and/or jurisdiction(s) to a final prospectus)
+Preliminary long form prospectus (adding jurisdiction(s) to a final prospectus)
+Preliminary plan summary scholarship plan
+Preliminary prospectus
+Preliminary prospectus (adding jurisdiction(s) to a final prospectus)
+Preliminary Receipt
+Preliminary short form prospectus
+Preliminary short form prospectus (adding jurisdiction(s) to a final prospectus)
+Preliminary short form prospectus (adding fund(s) and/or jurisdiction(s) to a final prospectus)
+Preliminary simplified prospectus
+Preliminary simplified prospectus (adding fund(s) and/or jurisdiction(s) to a final prospectus)
+Press release
+Pricing supplement (other than specified derivative)
+Pricing supplement (specified derivative)
+Prior valuation
+Pro forma annual information form
+Pro forma detailed plan disclosure - scholarship plan
+Pro forma ETF facts
+Pro forma fund facts
+Pro forma long form prospectus
+Pro forma plan summary - scholarship plan
+Pro forma simplified prospectus
+Prospectus
+Prospectus (non pricing) supplement
+Prospectus (non pricing) supplement (ATM)
+Prospectus (non pricing) supplement (other than ATM)
+Prospectus Supplement
+Proxy solicitation - information
+Proxy solicitation - proposed transaction
+Proxy solicitation - nominee for election
+Proxy voting record of an investment fund
+Proxy voting record of an investment fund (amended)
+Prior valuation
+Qualification certificate
+Qualification certificate(s)
+Real estate offering document
+Real estate offering document (amended)
+Receipt for Amendment to Final Prospectus
+Receipt for Amendment to Preliminary Prospectus
+Receipt for Final and Amendment to Final Prospectus
+Receipt for Preliminary and Amendment to Preliminary Prospectus
+Refusal Letter
+Related pre-filing, application, waiver or prospectus
+Relief/Approval
+Report/valuation for which consent is required
+Report/valuation (other than tech. reports)
+Report by independent review committee
+Report by independent review committee (amended)
+Report of exempt distribution excluding schedule 1 of Form 5
+Report of exempt distribution excluding schedule 1 of Form 5 (amended)
+Report of exempt distribution (45-106F1)
+Report of exempt distribution (45-106F1) (amended)
+Report of Distributions outside Canada (Form 72-503F)
+Request for clearance to file final
+Request for final receipt
+Receipt for Final and Amendment to Final Prospectus
+Receipt for Preliminary and Amendment to Preliminary Prospectus
+Request for Opt in
+Rights offering circular (Form 45-106F15) (amended)
+Rights offering circular (Form 45-106F15)
+Report of voting results
+Report of voting results (amended)
+Report of trade
+Report of exempt distribution in respect of eligible pooled funds
+Revised annual information form
+Revised annual information form - foreign language
+Revised annual information form - letter from foreign issuer
+Revised oil and gas annual disclosure filing (forms 51-101 F1, F2 & F3)
+Revised oil and gas annual disclosure filing (form 51-101 F1)
+Revised oil and gas annual disclosure filing (form 51-101 F2)
+Revised oil and gas annual disclosure filing (form 51-101 F3)
+Revised annual report on form 10-K
+Revised annual report on form 10-KSB
+Revised annual report on form 20-F
+Ruling on QSSP eligibility (QC)
+Second Comment Letter
+Second Response Letter
+Sub-custodianship agreement
+Subsequent Comment Letter
+Subsequent Response Letter
+Summary of oil and gas report
+Schedule 1 of report of exempt distribution (45-106F1)
+Schedule 1 of report of exempt distribution (45-106F1) (amended)
+Schedule 2 of report of exempt distribution (45-106F1)
+Schedule 2 of report of exempt distribution (45-106F1) (amended)
+Schedule 1 of report of exempt distribution Form 5
+Schedule 1 of report of exempt distribution Form 5 (amended)
+Seasoned prospectus certificate
+Staff Memo
+Stand-by commitment agreement
+Stand-by commitment agreement (amended)
+Statement of verification
+Statement of other investments
+Statement of other investments (amended)
+Sub-custodian agreement
+Sub-custodian agreement (or amendment thereto)
+Supplemented long form PREP prospectus
+Supplemented Short Form PREP Prospectus
+Statement of executive compensation (form 51-102F6)
+Statement of executive compensation (form 51-102F6V)
+Statutory declaration
+Supporting documents
+Technical report (NI 43-101)
+Translation certificate
+Take-over bid circular
+Topic Template
+Undated Decision Document/Order for Application - English
+Undated Decision Document/Order for Application - French
+Undertaking
+Undertaking in respect of continuous disclosure
+Undertaking in respect of credit supporter disclosure
+Undertaking in respect of restricted securities
+Undertaking re breakdown of sales and payment of fees (BC)
+Undertaking re novel derivatives or asset-backed securities
+Undertaking to file documents and material contracts
+Undertaking to pay fee (NS)
+Underwriters' certificate
+Underwriters undertaking
+Underwriting or agency agreement
+Underwriting or agency agreements (or amendment thereto)
+U.S. registration statement and exhibits
+Undertaking to pay fees (BC)
+Valuation report for capital development investment funds
+Valuation report for capital development investment funds (amended)
+Valuation report(s) for labour sponsored funds
+Valuation report(s) for labour sponsored funds (amended)
+Voluntary pre-filing of draft offering memoranda (SK local staff notice 45-706)
+Voluntary pre-filing of draft offering memoranda (SK local staff notice 45-706) (amended)
+Voluntary pre-filing of draft offering memoranda (NB local staff notice 45-701)
+Voluntary pre-filing of draft offering memoranda (NB local staff notice 45-701) (amended)
+Valuation material
+Waiver and undertaking re amendment in Québec
+Waiver application
+Submitted date
+FOR EXAMPLE DD/MM/YYYY
+From date
+Display date selector 
+ 
+To date
+Display date selector
+Show advanced search
+SearchClear search criteria
+Search results
+Page size	
+30
+10
+50
+Displaying 1-30 of 886 results
+1- 2- 3- 4- 5- 6- 7- 8- 9-...- 30 Next »
+All documents listed on this page
+Export
+	
+Profile(s)
+	
+Document
+	
+Submitted date
+	
+Principal jurisdiction
+	
+File size
+	Actions
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+09 Sep 2026 08:41 EDT
+September 09 2026 at 08:41:35 Eastern Daylight Time
+	
+Ontario
+	
+45 KB
+	
+Generate URL
+
+
+	
+Helikon Investments Limited / Helikon Investments Limited (000052840)
+Filed by
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+Filed against
+	
+Alternative monthly report.pdf
+	
+08 Sep 2026 12:38 EDT
+September 08 2026 at 12:38:06 Eastern Daylight Time
+	
+Ontario
+	
+447 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+02 Sep 2026 07:36 EDT
+September 02 2026 at 07:36:49 Eastern Daylight Time
+	
+Ontario
+	
+143 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+27 Aug 2026 07:57 EDT
+August 27 2026 at 07:57:31 Eastern Daylight Time
+	
+Ontario
+	
+37 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+17 Aug 2026 08:30 EDT
+August 17 2026 at 08:30:00 Eastern Daylight Time
+	
+Ontario
+	
+41 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+52-109F2 - Certification of interim filings - CFO (E).pdf
+	
+13 Aug 2026 20:13 EDT
+August 13 2026 at 20:13:47 Eastern Daylight Time
+	
+Ontario
+	
+178 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+52-109F2 - Certification of interim filings - CEO (E).pdf
+	
+13 Aug 2026 20:13 EDT
+August 13 2026 at 20:13:47 Eastern Daylight Time
+	
+Ontario
+	
+179 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Interim MD&A - English.pdf
+	
+13 Aug 2026 20:12 EDT
+August 13 2026 at 20:12:46 Eastern Daylight Time
+	
+Ontario
+	
+706 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Interim financial statements/report – English.pdf
+	
+13 Aug 2026 20:12 EDT
+August 13 2026 at 20:12:01 Eastern Daylight Time
+	
+Ontario
+	
+211 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Report of exempt distribution (45-106F1).pdf
+	
+10 Aug 2026 17:13 EDT
+August 10 2026 at 17:13:40 Eastern Daylight Time
+	
+Ontario
+	
+304 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Material change report - English.pdf
+	
+31 Jul 2026 16:47 EDT
+July 31 2026 at 16:47:39 Eastern Daylight Time
+	
+Ontario
+	
+203 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+31 Jul 2026 16:41 EDT
+July 31 2026 at 16:41:21 Eastern Daylight Time
+	
+Ontario
+	
+428 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+29 Jul 2026 09:07 EDT
+July 29 2026 at 09:07:42 Eastern Daylight Time
+	
+Ontario
+	
+155 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Other.pdf
+	
+28 Jul 2026 14:13 EDT
+July 28 2026 at 14:13:30 Eastern Daylight Time
+	
+Ontario
+	
+314 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent letter of underwriters' legal counsel.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+154 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Underwriting or agency agreements (or amendment thereto).pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+491 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Prospectus (non pricing) supplement (other than ATM) – English.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+6895 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent letter of issuer's legal counsel.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+12 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent of qualified person (NI 43-101) - English.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+6 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent of qualified person (NI 43-101) - English.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+6 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent of qualified person (NI 43-101) - English.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+6 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent of qualified person (NI 43-101) - English.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+6 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent of qualified person (NI 43-101) - English.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+6 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent of qualified person (NI 43-101) - English.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+6 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent of qualified person (NI 43-101) - English.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+6 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Auditors' consent letter.pdf
+	
+24 Jul 2026 17:21 EDT
+July 24 2026 at 17:21:18 Eastern Daylight Time
+	
+Ontario
+	
+72 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+22 Jul 2026 16:53 EDT
+July 22 2026 at 16:53:00 Eastern Daylight Time
+	
+Ontario
+	
+226 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+22 Jul 2026 08:29 EDT
+July 22 2026 at 08:29:40 Eastern Daylight Time
+	
+Ontario
+	
+42 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+News release - English.pdf
+	
+21 Jul 2026 07:57 EDT
+July 21 2026 at 07:57:33 Eastern Daylight Time
+	
+Ontario
+	
+45 KB
+	
+Generate URL
+
+
+	
+AbraSilver Resource Corp. / AbraSilver Resource Corp. (000001147)
+	
+Consent of qualified person (NI 43-101) - English.pdf
+	
+20 Jul 2026 23:39 EDT
+July 20 2026 at 23:39:57 Eastern Daylight Time
+	
+Ontario
+	
+262 KB
+	
+Generate URL
+Download documents
+A maximum of 30 documents can be selected per download request.
+1- 2- 3- 4- 5- 6- 7- 8- 9-...- 30 Next »
+Hide page help
+Sedar+
+About SEDAR+ Contact Us Glossary
+Copyright © 2023 British Columbia Securities Commission, Alberta Securities Commission, Ontario Securities Commission, Autorité des marchés financiers. All rights reserved.
+2.8.6.1 :: 2.8.6.1 :: 2026/09/09 16:54
+Download documents
+You are downloading 30 of documents 11.39 MB as per document(s) selected from search results.
+Cancel
+Download
