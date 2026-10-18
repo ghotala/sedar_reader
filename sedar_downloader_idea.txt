@@ -1,0 +1,39 @@
+I found a way to access SEDAR+ via automation, although it requires a single human input.
+
+It's done by running playwright and using full-fat Chrome that's already installed on the machine (no headless browsers or Chromium) in a dedicated profile created just for this.
+
+The journey start on the Profile search page.
+
+https://www.sedarplus.ca/csa-party/service/create.html?targetAppCode=csa-party&service=searchIndustryParticipant&_locale=en
+
+It results in a 302 redirect to the https://www.sedarplus.ca/csa-party/viewInstance/view.html page, with additional query string parameters which are user-specific and required for the page to work. That page should never be requested directly. It's important to visit the Profile search page with the link show above, and navigate on the page from there.
+
+Upon visiting those URLs, user might be presented with a Captcha challenge. The script should wait until the user completes the challenge, and then continue in an automated way. Should any subsequent Captcha challenges occur, the script should wait until they are resolved. Ideally, the Chrome instance would be brought to the front in such cases, so the need for user intervention is not missed by the user.
+
+PROFILES PAGE
+
+This is used to get basic info about a company, most importantly it's full name and ID in the SEDAR+ system.
+
+On the page, a text input with id="QueryString" should be populate with company name. Then, a Search button should be clicked. This results in a spinner being briefly shown - it's presence is indicated by a <div role="alert"> element with "Processing ..." text. When that element disappears, results should appear in a <table> element with an aria-label "List of data items". The first column is the company name, and all of part of it should be a link to the company Profile page. Clicking the link shows the same spinner, and once it disappears, the new page should be loaded.
+
+This page can contain various info about the company. It includes Profile Number, which uniquely identifies the Company in the system, and can be used to disambiguate if there are multiple results. Additionally, it provides a link to the Document search page, pre-filtered to only include documents for this company. It's an anchor with a <span> document in it, with "Search and download documents for this profile" text. Clicking that link triggers a spinner, and when it disapperas, the Documents search form and the first page of results should be shown.
+
+The form can be used to narrow down the results, f.eg. by Filing Type (combobox, can add multiple), Filing Subtype (same), Filing Category (same) or Document Type (same). Selecting any value triggers a spinner, and when it disappears, selected value should show in the combobox with an X next to it to remove it, while interacting with the Combobox allows selecting more values.
+
+There are also From and To date controls, which can be populated with a date string in a DD/MM/YYYY format. Populating them does NOT trigger a spinner. If one is populated, the other also need to be populated.
+
+Clicking "Search" at the bottom of the form triggers a spinner, and when it disappears, filtered results should appear in a <table> element with an aria-label of "List of data items". They should be ordered by submission date, descending, and by default 30 elements are shown per page. There is a pagination element, with a class "appPagerContainer", which contains links to other pages.
+
+Every row starts with a checkbox to select it for download. There's also a checkbox above the table, with a label "All documents listed on this page", which selects all documents on the current results page. Clicking either on an individual row checkbox, or on a mass select checbox, triggers the spinner, and it needs to be awaited to disappear before another action can be taken.
+
+Individual documents can be downloaded in the PDF format by clicking on the document name link. Document names are not always unique, and non-regulatory filings are often all named "News release - English.pdf". Ideally, they would be renamed after saving, prefixed at the very least with their Submitted Date in a YYYY_MM_DD_ format. Document links carry a unique drmKey quesry string, which might be helpful in identifying them after download.
+
+Multiple documents can be downloaded by selecting their checkboxes and clicking "Download documents" button (text lives in a <span> inside a <button>). It triggers a spinner, and when it disappears, a modal is shown (div with a role="dialog") which contains a "Download" button (text lives in a <span> inside a <button>). Clicking on that button triggers a spinner, and when it disappears, a ZIP document with selected documents is downloaded. In the ZIP file, documents live in their individual folders, but documents with non-unique names have ([drmKey]) added after their extension. F.eg. a document could be named "News release - English.pdf (37fda2764639459d)". This allows to match that file to its row in the results list and grab its Submitted Date. For that reason, the results page should be saved and parsed locally to extract that data.
+
+Important things: 
+
+1. Full-fat Chrome with a dedicated profile needs to be used, with clean cookies and local storage.
+2. Captcha challenges should be awaited (so the user can perform validation), and ideally the browser window would be brought to the front
+3. In almost all interactions, a spinner needs to be awaited to show and disappear before the next action can be taken. Exceptions include typing in company name in the Profile search form, and typing in From and To dates in the Document search form.
+
+I hade Luna 6 implement this workflow and it works, but I'm wondering if you can do it better. As always, it should be scripted so it can be run with no inferrence. F.eg. I'd like to be able to provide company name [with optional Profile ID for disambiguation] and the range of pages I want downloaded, or the From and To dates, and it would get download those documents, extract them from a ZIP package, rename (add date prefixes and move the ([drmKey]) from extension to the end of file name, so the file is a pdf again) and then flatten the resulting structure so all documents live in a top-level folder.
